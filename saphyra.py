@@ -6587,7 +6587,7 @@ def usage():
     print ("\a")
 
 
-print """
+print (""")
 
                                 ,-.
                                ( O_)
